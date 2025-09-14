@@ -1,0 +1,13 @@
+desarrollo-proyecto-signalForHelp-entrenamiento
+https://github.com/jonatan-paz-guzman-ia/desarrollo-proyecto-signalForHelp-entrenamiento/tree/main
+
+
+desarrollo-proyecto-signalForHelp-backend
+https://github.com/jonatan-paz-guzman-ia/desarrollo-proyecto-signalForHelp-backend
+
+desarrollo-proyecto-signalForHelp-frontend
+https://github.com/jonatan-paz-guzman-ia/desarrollo-proyecto-signalForHelp-frontend
+
+
+desarrollo-proyecto-signalForHelp-monolito
+https://github.com/jonatan-paz-guzman-ia/desarrollo-proyecto-signalForHelp-monolito
